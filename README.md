@@ -6,7 +6,7 @@
 ## Run Locally
 Clone the project
 ```bash
-  https://github.com/Asanda001019/Task11-NODE-SERVER.git
+  https://github.com/Asanda001019/Task7-NODE-SERVER.git
 ```
 Go to the project directory
 ```bash
