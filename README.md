@@ -10,7 +10,7 @@ Clone the project
 ```
 Go to the project directory
 ```bash
-  cd weatherApp
+  cd TASK11-NODE-SERVER
 ```
 Install dependencies
 ```bash
